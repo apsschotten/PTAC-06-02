@@ -1,14 +1,8 @@
-export default function App() {
-
-  const nome = "João";
-  const sobreNome = "Santos";
-
+import Footer from "Components/Footer.jsx";
+export default function App(){
   return(
-    <div>
-        <h1>Hello World</h1>
-        <p>Desenvolvido por: {nome}</p>
-    </div>  
+    <main>
+      <Footer/>
+    </main>
   );
-
-
 }
