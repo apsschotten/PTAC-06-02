@@ -2,7 +2,11 @@ export default function Footer(){
 
     return(
     <footer>
-        <p>Footer feito pela aluna Ana Paula S. Schotten - INFO 3B</p>
+        <ul class="socialmedia">
+            <li><a href="#">Instagram</a></li>
+            <li><a href="#">Twitter</a></li>
+            <li><a href="#">Whatsapp</a></li>
+        </ul>
     </footer>
     );
 }
