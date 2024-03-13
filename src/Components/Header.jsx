@@ -4,14 +4,14 @@ export default function Header(){
     <header>
         <nav class="navbar">
             <div class="navbar-header">
-                <img src="src/images/magicat.png" alt="logo" id="image">
+                <img src="src/images/magicat.png" alt="logo" id="image"/>
                 <div class="logo">Magicats.com</div>
             </div>
     
             <div class="container">
                 <div class="search-container">
                   <form action="#" method="get">
-                    <input type="text" placeholder="Pesquisar..." name="search">
+                    <input type="text" placeholder="Pesquisar..." name="search"/>
                     <button type="submit">Buscar</button>
                   </form>
                 </div>
