@@ -1,6 +1,6 @@
 import Header from "./Components/Header.jsx";
 import Footer from "./Components/Footer.jsx";
-import "./App.css";
+import "./Globals.css";
 
 export default function App(){
   return(
